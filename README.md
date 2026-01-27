@@ -129,7 +129,7 @@ submission.csv
 ## Vision Transformer Walkthrough
 
 <p align="center">
-  <img src="vit.gif" width="700"/>
+  <img src="vit.gif" height="300"/>
 </p>
 
 The ViT implementation includes:
