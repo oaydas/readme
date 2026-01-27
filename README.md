@@ -128,6 +128,10 @@ submission.csv
 
 ## Vision Transformer Walkthrough
 
+<p align="center">
+  <img src="vit.gif" width="700"/>
+</p>
+
 The ViT implementation includes:
 - Patch embedding (16×16)
 - Multi-Head Self Attention
